@@ -1,3 +1,5 @@
+###Project Architecture:
+https://excalidraw.com/#json=zH4U_Avw9GlLr4HCJ2Bla,4BKgttGcGNdvUJyCg--TBw
 ## Setup
 
 - Clone the repository and navigate to the 'RAG_qna_Sample_Set'
