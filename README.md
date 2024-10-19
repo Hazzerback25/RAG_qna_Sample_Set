@@ -22,3 +22,6 @@
     ```bash
     streamlit run main.py
     ```
+<img width="1427" alt="Screenshot 2024-10-19 at 12 17 05 PM" src="https://github.com/user-attachments/assets/57d825b9-c804-4df6-aca5-b38bff30104b">
+
+    
